@@ -1,0 +1,41 @@
+body{
+	font-family: 'Trebuchet MS', sans-serif;
+	background-color: yellow
+	
+}
+
+
+h1,h2,h3,p,a{
+	color: black;
+	text-align:center;
+	
+} 
+
+img{
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+a{
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+.bold{
+	font-weight: bold;
+	display: inline;
+
+	color: orange;
+	text-align: left;
+
+} 
+
+#italic{
+	font-style: italic;
+}
+
+.my-container{
+	border: thick; solid #007DFF; 
+	background-color: #F0E68C; 
+
+}
